@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://catsaltresume.github.io/docs/hello/</loc>
+  </url>
+  
+  <url>
+    <loc>https://catsaltresume.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://catsaltresume.github.io/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://catsaltresume.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://catsaltresume.github.io/</loc>
+  </url>
+  
+</urlset>
